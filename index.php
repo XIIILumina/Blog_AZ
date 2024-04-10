@@ -1,2 +1,5 @@
-<?
-echo "Tolik Shebenj";
+<?php
+
+
+require "functions.php";
+require "router.php";
